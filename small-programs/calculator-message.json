@@ -1,0 +1,21 @@
+{
+    "en": {
+      "firstNumber": "What's the first number?",
+      "secondNumber": "What's the second number?",
+      "incorrectNumber": "Hmmm... that doesn't look like a valid number.",
+      "operation": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+      "invalidOperator": "Must choose 1, 2, 3, or 4",
+      "anotherOperation": "Would you like to perform another operation? y/n",
+      "yesOrNo": "Must choose: y/n"
+    },
+  
+    "it": {
+      "firstNumber": "Qual è il primo numero?",
+      "secondNumber": "Qual è il secondo numero?",
+      "incorrectNumber": "Hmmm... non sembra un numero valido.",
+      "operation": "Quale operazione vorresti eseguire?\n1) Aggiungi 2) Sottrai 3) Moltiplica 4) Dividi",
+      "invalidOperator": "Devi scegliere 1, 2, 3 o 4",
+      "anotherOperation": "Desideri eseguire un'altra operazione? sì/no",
+      "yesOrNo": "Devi scegliere: sì/no"
+    }
+  }
